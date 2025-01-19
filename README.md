@@ -1,0 +1,3 @@
+# Unexpected Return Value in Comparison Function
+
+This repository demonstrates a common error in JavaScript comparison functions: incorrect handling of equality. The function `myFunc` intends to return the larger of two numbers, but it contains a logic error that leads to unexpected results when the inputs are equal.  The solution provides a corrected version that accurately handles all comparison cases.
